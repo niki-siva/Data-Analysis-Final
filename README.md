@@ -6,7 +6,7 @@ This project analyzes whether Spotify audio features and Last.fm engagement metr
 ## Files in this repository
 - `Final-V18.ipynb`: final Python notebook with EDA, feature engineering, modeling, and conclusions
 - `SQL-V7.ipynb`: separate SQL notebook with required joins, subqueries, window functions, and grouped aggregations
-- `Data Analysis Final V2.pdf`: presentation deck used for the final presentation
+- `Data Analysis Final V7.pdf`: presentation deck used for the final presentation
 
 ## Main takeaway
 Audio features such as danceability and energy show modest relationships with Spotify popularity, but they do not strongly predict song success on their own.
